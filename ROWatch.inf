@@ -1,0 +1,53 @@
+; Please do not change if you do not know what you're doing!
+; 
+[Win]
+WinL_Main = 481
+WinT_Main = 371
+WinL_Options = 570
+WinT_Options = 432
+WinL_Contact = 1268
+WinT_Contact = 516
+WinL_Log = 794
+WinT_Log = 601
+WinR_Log = 1304
+WinB_Log = 863
+WinL_Info = 1363
+WinT_Info = 458
+[Main]
+Title = Ragnarok
+RefreshTime = 25
+Magnetic = 1
+MagneticValue = 15
+Opacity = 0
+OpacityValue = 150
+AutoUpdate = 0
+AlwaysOnTop = 0
+Sounds = 0
+ShowSprites = 1
+WatchThread = 1
+Loging = 1
+LogingMax = 1000
+G15LCD = 0
+G15Mode = 1
+MoveAllWin = 0
+MemAdrUpdate = 0
+BUPScreen = 1
+BUPScreenDelay = 1200
+JUPScreen = 1
+JUPScreenDelay = 500
+ROFolder = 
+[Memory]
+name = 9825832
+blvl = 9815280
+jlvl = 9815292
+bexp = 9815276
+bexpn = 9815288
+jexp = 9815464
+jexpn = 9815460
+jcls = 9815272
+zeny = 9815444
+state = 8815080
+hp = 9824548
+mhp = 9824552
+sp = 9824556
+msp = 9824560
